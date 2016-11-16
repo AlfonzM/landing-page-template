@@ -1,0 +1,12 @@
+{
+  "name": "landing-page-template",
+  "version": "1.0.0",
+  "description": "By Alfonz Montelibano",
+  "main": "index.js",
+  "scripts": {
+  	"start": "scss --watch sass:css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
